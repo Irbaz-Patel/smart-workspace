@@ -44,4 +44,4 @@ A **productivity-focused web application** built with **React.js** and **Materia
 
 2. Start the development server
    ```bash
-  npm run dev
+     npm run dev
